@@ -63,18 +63,17 @@ ul{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    padding-top: 2%;
 }
 h2{
     background-color: yellow;
     color: black;
     text-align: center;
 }
-}
 h3{
     color: white;
     text-align: center;
     font-weight: bolder;
-    margin-left: 400px;
 }
 .campus_life p{
     text-align: center;
@@ -99,6 +98,15 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+.events p{
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-left: 2%;
+    text-align: center;
 }
 h4{
     text-align: center;
@@ -125,6 +133,7 @@ h4{
     padding-bottom: 1%;
     text-align: center;
     margin-left: 400px;
+    margin-top: 1%;
 }
 .button1{
     color: black;
@@ -134,7 +143,7 @@ h4{
     padding-top: 1%;
     padding-bottom: 1%;
     text-align: center;
-    margin-left: 400px;
+    margin-left: 500px;
     font-weight: bold;
 }
 
